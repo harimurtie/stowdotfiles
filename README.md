@@ -1,0 +1,2 @@
+# stowdotfiles
+belajar pakai stow
